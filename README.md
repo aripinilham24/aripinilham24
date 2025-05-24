@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
+<br><br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
@@ -28,16 +29,24 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
 ###
 
+<h1 align="center">hey there 👋</h1>
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left">I'm Aripin from Indonesia.<br><br>- 🔭 I’m working as a full-stack developer.<br>- 📚 I'm currently learning the MERN stack.<br>- ⚡  In my free time, I work out and enjoy learning new things.</p>
+
+###
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
 ###
 
@@ -100,7 +109,19 @@
 ###
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+###
+
+<div align="center">
 <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+</div>
+
+###
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ###
@@ -110,6 +131,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aripinilham24/aripinilham24/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aripinilham24/aripinilham24/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
 ###
 
