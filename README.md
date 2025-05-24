@@ -29,13 +29,16 @@
 
 ###
 
+<h1 align="center">hey there 👋</h1>
+
+###
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -90,6 +93,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
+</div>
+
+###
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ###
