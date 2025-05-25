@@ -163,15 +163,12 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/M. Aripin Ilham">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=M.%20Aripin%20Ilham&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/aripinilham">
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pclw2pwvq4drqeuzmz5jogrtbu)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pclw2pwvq4drqeuzmz5jogrtbu&count=5)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pclw2pwvq4drqeuzmz5jogrtbu&width=600)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pclw2pwvq4drqeuzmz5jogrtbu&unique=true)
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
