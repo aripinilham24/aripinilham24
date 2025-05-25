@@ -163,12 +163,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/aripinilham">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pclw2pwvq4drqeuzmz5jogrtbu)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pclw2pwvq4drqeuzmz5jogrtbu&count=5)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pclw2pwvq4drqeuzmz5jogrtbu&width=600)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pclw2pwvq4drqeuzmz5jogrtbu&unique=true)
-  </a>
+  <img src="https://novatorem-rose-sigma.vercel.app/api/spotify?theme=dark" alt="Widget with the current Spotify song"  />
+  [![Spotify](https://novatorem-rose-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/31pclw2pwvq4drqeuzmz5jogrtbu)
 </div>
 
 ###
