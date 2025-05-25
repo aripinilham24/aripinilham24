@@ -162,9 +162,14 @@
 
 ###
 
+<h3 align="left">🎧 Spotify Playing:</h3>
+
+###
+
 <div align="center">
+<a href="https://open.spotify.com/user/31pclw2pwvq4drqeuzmz5jogrtbu" target="_blank">
   <img src="https://novatorem-rose-sigma.vercel.app/api/spotify?theme=dark" alt="Widget with the current Spotify song"  />
-  [![Spotify](https://novatorem-rose-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/31pclw2pwvq4drqeuzmz5jogrtbu)
+</a>
 </div>
 
 ###
