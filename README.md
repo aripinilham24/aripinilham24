@@ -11,7 +11,7 @@
   <a href="https://wa.me/6283896794622" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/m-aripin-ilham-37a443246/" target="_blank">
+  <a href="https://www.linkedin.com/in/aripin-ilham-37a443246/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/muhamadarifinilham24/" target="_blank">
