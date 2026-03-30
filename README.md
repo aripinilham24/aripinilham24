@@ -77,8 +77,21 @@
 ###
 
 <div align="center">
-  <img style="margin-bottom: 50px;" src="https://streak-stats.demolab.com?user=aripinilham24&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <!-- <img src="https://github-profile-trophy.vercel.app?username=aripinilham24&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
+  <img style="margin-bottom: 30px;" src="https://streak-stats.demolab.com?user=aripinilham24&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
 </div>
 
 ###
@@ -88,16 +101,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aripinilham24/aripinilham24/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aripinilham24/aripinilham24/output/pacman-contribution-graph.svg">
 </picture>
-
-<!-- <h3 align="left">🎧 Spotify Playing:</h3>
-
-###
-
-<div align="center">
-<a href="https://open.spotify.com/user/31pclw2pwvq4drqeuzmz5jogrtbu" target="_blank">
-  <img src="https://novatorem-rose-sigma.vercel.app/api/spotify?theme=dark" alt="Widget with the current Spotify song"  />
-</a>
-</div> -->
 
 ###
 
