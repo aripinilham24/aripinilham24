@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Aripin from Indonesia.<br><br>- 🔭 I’m working as a full-stack developer.<br>- 📚 I'm currently learning the MERN stack.<br>- ⚡  In my free time, I work out and enjoy learning new things.</p>
+<p align="left">I'm Aripin Ilham from Indonesia.<br><br>- 🔭 I’m working as a full-stack developer.<br>- 📚 I'm currently learning the MERN stack.<br>- ⚡  In my free time, I work out and enjoy learning new things.</p>
 
 ###
 
